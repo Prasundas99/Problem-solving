@@ -8,19 +8,18 @@ int main()
 
 	cin>>n;
 	
-	for(i=n;i>1;i--){
-		for(k=0;k<i+1;k++){
+	for(i=1;i<n;i++){
+		for(l=n;l>=i;l--){
 			cout<<" ";
 		}
-		for(l=n;l>=i;l--){
-			cout<<l;
-		}
-		cout<<endl;
 		
-	}
-	
+		for(k=2;k<i+1;k++){
+			cout<<k;
+		}
+		
+			
 	//for right triangle
-	for(i=1;i<n+1;i++){
+	
 		for(j=1;j<i+1;j++){
 			cout<<j;
 		}

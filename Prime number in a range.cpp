@@ -2,20 +2,22 @@
 
 #include<iostream>
 using namespace std;
-void prime(int a){
-	int i,flag=0;
-	
-	for(i=0;i<a/2;i++){
-	  if(a%i==0){
-	  	flag = flag +1;
-	  }	
-	}
-	
-	if(flag==0){
-		cout<<a<<endl;
-	}
-	
+
+
+
+
+bool prime(int a){
+for(int i=2;i<=a/2;i++){
+if(a%i==0){
+return false;
 }
+}
+return true;
+}
+	
+	
+
+
 
 int main()
 { int i,n,m;
@@ -27,7 +29,8 @@ cout<<"second number :";
 cin>>m;
 
 	for(i=n;i<m+1;i++){
-		prime(i);
+		if(prime(i))
+		cout<<i<<endl;
 	}
 
 	

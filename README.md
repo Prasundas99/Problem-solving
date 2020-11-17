@@ -12,3 +12,4 @@ Topics covered till now :
 -function
     -prime number in range
     -ncr
+-Arrays    

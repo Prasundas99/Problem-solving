@@ -4,8 +4,11 @@ Question from Channel Apni Kaksha for practicing DS algo
 
 Topics covered till now :
 -general concepts
+    --decimal to binary
 -loops
     -pallindrome triangle
     -Pascal Triangle(imp)
+    -hollow rectangle
 -function
-    -decimal to binary
+    -prime number in range
+    -ncr

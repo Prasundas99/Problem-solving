@@ -2,6 +2,7 @@
 
 Question from Channel Apni Kaksha for practicing DS algo
 
+
 Topics covered till now :
 -general concepts
     --decimal to binary
@@ -13,3 +14,4 @@ Topics covered till now :
     -prime number in range
     -ncr
 -Arrays    
+    -linear search

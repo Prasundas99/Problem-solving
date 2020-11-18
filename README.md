@@ -7,19 +7,25 @@ Topics covered till now :
 
 
 -general concepts
+    
     --decimal to binary
     
     
 -loops
-    -pallindrome triangle
-    -Pascal Triangle(imp)
-    -hollow rectangle
+   
+    --pallindrome triangle
+   
+    --Pascal Triangle(imp)
+    
+    --hollow rectangle
     
     
 -function
-    -prime number in range
-    -ncr
+    
+    --prime number in range
+       --ncr
     
     
--Arrays    
+-Arrays 
+
     -linear search

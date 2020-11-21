@@ -27,10 +27,11 @@ Topics covered till now :
     
     
 -Arrays 
-    Searching
-    -linear search
-    -Binary search
     
-    Sorting
+    Searching
+        -linear search
+        -Binary search
+    
+    -Sorting
     -sellection sort
     -Bubble sort

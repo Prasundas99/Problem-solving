@@ -1,6 +1,6 @@
 ## Problem solving in C++
 
-Question from Channel Apni Kaksha for practicing DS algo
+Solutions of Questions from Channel Apni Kaksha for practicing DS algo
 
 
 Topics covered till now :

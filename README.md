@@ -35,3 +35,6 @@ Topics covered till now :
     -Sorting
     -sellection sort
     -Bubble sort
+
+Recursion-
+       -nQueen problem

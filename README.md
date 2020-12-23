@@ -1,17 +1,17 @@
 ## Problem solving in C++
 
-Solutions of Questions from Channel Apni Kaksha for practicing DS algo
+A list of all common problems (solved with explainations) from beginners to advance in problem solving and DS Algo in C++
 
 
 Topics covered till now :
 
 
--general concepts
+-General concepts
     
     --decimal to binary
     
     
--loops
+-Loops
    
     --pallindrome triangle
    
@@ -20,10 +20,10 @@ Topics covered till now :
     --hollow rectangle
     
     
--function
+-Function
     
     --prime number in range
-       --ncr
+    --ncr
     
     
 -Arrays 
@@ -32,9 +32,9 @@ Topics covered till now :
         -linear search
         -Binary search
     
-    -Sorting
-    -sellection sort
-    -Bubble sort
+    Sorting
+        -sellection sort
+        -Bubble sort
 
-Recursion-
-       -nQueen problem
+    Recursion-
+         -nQueen problem

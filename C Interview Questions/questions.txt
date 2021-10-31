@@ -1,6 +1,5 @@
 Important Program For Placemrent
 
-    C Program to Find the Largest Number Among Three Numbers
     C Program to Find the Roots of a Quadratic Equation
     C Program to Check Leap Year
     C Program to Check Whether a Number is Positive or Negative

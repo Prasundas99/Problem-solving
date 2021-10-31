@@ -1,5 +1,4 @@
 Important Program For Placemrent
-    C Program to Find Factorial of a Number
     C Program to Generate Multiplication Table
     C Program to Display Fibonacci Sequence
     C Program to Find GCD of two Numbers

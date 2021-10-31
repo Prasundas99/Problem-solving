@@ -1,5 +1,4 @@
 Important Program For Placemrent
-    C Program to Swap Two Numbers
     C Program to Check Whether a Number is Even or Odd
     C Program to Check Whether a Character is a Vowel or Consonant
     C Program to Find the Largest Number Among Three Numbers

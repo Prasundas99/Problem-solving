@@ -1,6 +1,0 @@
--Sorting: A techinque or an algo to sort a given series of number
-
-	--Sellection -> swap smallest to most left
-	--Bubble -> swap things 2at a time
-
-	--Insertion ->bubble+sellection-> change index value of all element by +1 and put the smallest element in fist

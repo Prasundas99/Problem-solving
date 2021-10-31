@@ -1,5 +1,0 @@
-Searching:
-
-Linear seaarch -> Searching occur linearly aand a flag is marked 
-
-Binary Search -> seaarch is done by dividing the whole sequence in 2 half  and  then in two half untill the seaarch number is  found. 

@@ -1,9 +1,4 @@
 Important Program For Placemrent
-
-    C Program to Find the Roots of a Quadratic Equation
-    C Program to Check Leap Year
-    C Program to Check Whether a Number is Positive or Negative
-    C Program to Check Whether a Character is an Alphabet or not
     C Program to Calculate the Sum of Natural Numbers
     C Program to Find Factorial of a Number
     C Program to Generate Multiplication Table

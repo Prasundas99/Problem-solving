@@ -1,7 +1,5 @@
 Important Program For Placemrent
-    C Program to Generate Multiplication Table
-    C Program to Display Fibonacci Sequence
-    C Program to Find GCD of two Numbers
+
     C Program to Find LCM of two Numbers
     C Program to Display Characters from A to Z Using Loop
     C Program to Count Number of Digits in an Integer

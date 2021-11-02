@@ -1,7 +1,4 @@
 Important Program For Placemrent
-
-    C Program to Display Characters from A to Z Using Loop
-    C Program to Count Number of Digits in an Integer
     C Program to Reverse a Number
     C Program to Calculate the Power of a Number
     C Program to Check Whether a Number is Palindrome or Not

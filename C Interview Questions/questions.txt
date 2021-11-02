@@ -1,5 +1,4 @@
 Important Program For Placemrent
-    C Program to Calculate the Power of a Number
     C Program to Check Whether a Number is Palindrome or Not
     C Program to Check Whether a Number is Prime or Not
     C Program to Display Prime Numbers Between Two Intervals

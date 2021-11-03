@@ -1,5 +1,4 @@
 Important Program For Placemrent
-    C Program to Check Whether a Number is Prime or Not
     C Program to Display Prime Numbers Between Two Intervals
     C Program to Check Armstrong Number
     C Program to Display Armstrong Number Between Two Intervals

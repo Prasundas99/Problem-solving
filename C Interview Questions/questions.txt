@@ -1,5 +1,4 @@
 Important Program For Placemrent
-    C Program to Display Factors of a Number
     C Program to Make a Simple Calculator Using switch...case
 
     C Program to Display Prime Numbers Between Intervals Using Function

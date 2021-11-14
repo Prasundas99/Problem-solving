@@ -1,7 +1,4 @@
 Important Program For Placemrent
-    C Program to Make a Simple Calculator Using switch...case
-
-    C Program to Display Prime Numbers Between Intervals Using Function
     C Program to Check Prime or Armstrong Number Using User-defined Function
     C Program to Check Whether a Number can be Expressed as Sum of Two Prime Numbers
     C Program to Find the Sum of Natural Numbers using Recursion

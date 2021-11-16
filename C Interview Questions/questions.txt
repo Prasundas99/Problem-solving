@@ -1,6 +1,3 @@
-    C Program to Find the Sum of Natural Numbers using Recursion
-    C Program to Find Factorial of a Number Using Recursion
-    C Program to Find G.C.D Using Recursion
     C Program to Convert Binary Number to Decimal and vice-versa
     C Program to Convert Octal Number to Decimal and vice-versa
     C Program to Convert Binary Number to Octal and vice-versa

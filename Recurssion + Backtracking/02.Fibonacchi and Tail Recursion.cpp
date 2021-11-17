@@ -34,3 +34,12 @@ int main() {
 	cout<<f<<endl;;
 	return 0;
 }
+
+
+/*
+Working with variables in recursion:
+
+1. Arguments
+2. Return Type
+3. Body of function
+*/

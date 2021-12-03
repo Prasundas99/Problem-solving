@@ -1,0 +1,134 @@
+the efficiency or running time of an algorithm is stated as a function relating the input length to the number of steps, known as time complexity, or volume of memory, known as space complexity.
+
+
+Worst-case − The maximum number of steps taken on any instance of size a.
+
+Best-case − The minimum number of steps taken on any instance of size a.
+
+Average case − An average number of steps taken on any instance of size a.
+
+Amortized − A sequence of operations applied to the input of size a averaged over time.
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+What is the time, space complexity of following code :
+
+        int a = 0, b = 0;    
+        for (i = 0; i < N; i++) {
+            a = a + rand();  
+        }
+        for (j = 0; j < M; j++) {
+            b = b + rand();
+        }
+Assume that rand() is O(1) time, O(1) space function.
+
+Select your answer from the following options:
+    O(N * M) time, O(1) space
+    O(N + M) time, O(N + M) space
+    O(N + M) time, O(1) space  (SOL)
+    O(N * M) time, O(N + M) space
+    O(N * M) time, O(N * M) space
+
+Solution:
+The first loop is O(N) and the second loop is O(M). Since you don't know which is bigger, you say **this is O(N + M)**. This can also be written as O(max(N, M)).
+
+Since there is no additional space being utilised, the space complexity is constant / O(1)    
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What is time complexity of following code :
+
+        int count = 0;
+        for (int i = N; i > 0; i /= 2) {
+            for (int j = 0; j < i; j++) {
+                count += 1;
+            }
+        }
+Select your answer from the following options:
+O(N * N)
+O(N * log N)
+O(N * log(log(N)))
+O(N)   (Solution)
+O(N * Sqrt(N))
+
+Complete Solution
+In the first iteration, the j loop runs N times.
+In the second iteration, the j loop runs N / 2 times. 
+In the ith iteration, the j loop runs N / 2^i times. 
+So, the total number of runs of loop = N + N / 2 + N / 4 + ... 1 = **N * ( 1 + 1/2 + 1/4 + 1/8 + ... ) < 2 * N** 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. What is the time, space complexity of the following code: 
+    int a = 0, b = 0;
+    for (i = 0; i < N; i++) {
+        a = a + rand();
+    }
+    for (j = 0; j < M; j++) {
+        b = b + rand();
+    }
+
+O(N * M) time, O(1) space
+O(N + M) time, O(N + M) space
+O(N + M) time, O(1) space
+O(N * M) time, O(N + M) space
+
+
+Solution:
+3. O(N + M) time, O(1) space
+Explanation: The first loop is O(N) and the second loop is O(M). Since we don’t know which is bigger, we say this is O(N + M). This can also be written as O(max(N, M)). 
+Since there is no additional space being utilized, the space complexity is constant / O(1)
+
+------------------------------------------------------------------------------------------------------------------------------
+What is the time complexity of the following code: 
+
+int i, j, k = 0;
+for (i = n / 2; i <= n; i++) {
+    for (j = 2; j <= n; j = j * 2) {
+        k = k + n / 2;
+    }
+}
+
+O(n)
+O(nLogn)
+O(n^2)
+O(n^2Logn)
+
+Solution:
+2. O(nLogn)
+
+Explanation: If you notice, j keeps doubling till it is less than or equal to n. Several times, we can double a number till it is less than n would be log(n). 
+Let’s take the examples here. 
+for n = 16, j = 2, 4, 8, 16 
+for n = 32, j = 2, 4, 8, 16, 32 
+So, j would run for O(log n) steps. 
+i runs for n/2 steps. 
+So, total steps = O(n/ 2 * log (n)) = O(n*logn)
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+What will be the time complexity of the following code?
+
+var value = 0;
+for(var i=0;i<n;i++)
+    for(var j=0;j<i;j++)
+    value += 1;
+n
+(n+1)
+n(n-1)/2
+n(n+1)/2
+Output:
+
+Solution:
+
+3. n(n-1)/2
+Explanation: First for loop will run for (n) times and another for loop will be run for (n-1) times so overall time will be n(n-1)/2.
+

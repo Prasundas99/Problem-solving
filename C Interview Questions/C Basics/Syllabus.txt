@@ -1,0 +1,86 @@
+C Introduction
+    Introduction
+    First C code
+    printf() and scanf() in C
+    Compilation process in C
+    Keywords & Identifier
+    Variables & Constants
+    C Data Types
+    C Input/Output
+    C Operators
+        Tokens in C
+        C Boolean
+        Static in C
+        Programming Errors in C
+        Compile time vs Runtime
+        Conditional Operator in C
+        Bitwise Operator in C
+        2s complement in C
+    C Introduction Examples
+
+C Flow Control
+    C if...else
+    C break and continue
+    C switch...case
+    If Else vs switch
+    C for Loop
+        - Nested loops
+        - Infinite Loops
+    C while Loop
+    C Programming goto
+    Control Flow Examples
+
+C Functions (Fau)  https://www.programiz.com/c-programming/c-functions
+    C Programming Functions
+    C User-defined Functions
+    Call by value Call By Reference (imp)
+    C Function Types
+    C Recursion
+    C Storage Class
+    C Function Examples
+
+C Programming Arrays (Fau)
+    C Programming Arrays
+    C Multi-dimensional Arrays
+        C Return An Array
+    C Arrays & Function    
+
+C Programming Pointers (imp)
+    C Programming Pointers
+    C Pointers & Arrays
+    C Pointers And Functions
+    C Memory Allocation
+    Array & Pointer Examples    
+
+C Programming Strings
+    C Programming String
+    C String Functions
+        -C gets() & puts()
+        C String Functions
+        C strlen()
+        C strcpy()
+        C strcat()
+        C strcmp()
+        C strrev()
+        C strlwr()
+        C strupr()
+        C strstr()
+    C String Examples
+
+Structure And Union (Fau)
+    C Structure
+    C Struct & Pointers
+    C Struct & Function
+    C Unions
+    C struct Examples   
+
+C Programming Files (Fau)
+    C Files Input/Output
+    C Files Examples   
+
+Additional Topics (Fau)
+    C Enumeration
+    C Preprocessors
+    C Standard Library
+
+C Programming Examples      

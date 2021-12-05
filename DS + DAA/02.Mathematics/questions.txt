@@ -1,0 +1,228 @@
+GCD and LCM
+    GCD and LCM
+    Basic and Extended Euclidean algorithms
+    Product of given N fractions in reduced form
+    GCD of two numbers when one of them can be very large
+    Stein’s Algorithm for finding GCD
+
+
+
+
+Prime Factorization and Divisors
+    Prime factors
+    Smith Numbers
+    Sphenic Number
+    Hoax Number
+    k-th prime factor of a given number
+    Pollard’s Rho Algorithm for Prime Factorization
+    Prime Factorization using Sieve O(log n) for multiple queries
+    Find politeness of a number
+    Find sum of even factors of a number
+    Find largest prime factor of a number
+    Find all divisors of a natural number
+    Find minimum number to be divided to make a number a perfect square
+    Check for Amicable Pair
+
+
+
+Fibonacci Numbers
+    Fibonacci Numbers
+    How to check if a given number is Fibonacci number?
+    Zeckendorf’s Theorem (Non-Neighbouring Fibonacci Representation)
+    Finding nth Fibonacci Number using Golden Ratio
+    Matrix Exponentiation
+    Fibonacci Coding
+    Cassini’s Identity
+    N-bonacci Numbers
+    Program to print Fibonacci Triangle
+    Hosoya’s Triangle
+    Leonardo Number
+    Even Fibonacci Numbers Sum
+    Nth Even Fibonacci Number
+    Finding number of digits in n’th Fibonacci number
+    Non Fibonacci Numbers
+    Sum of Fibonacci Numbers
+
+
+
+
+
+Modular Arithmetic
+    Modular Exponentiation (Power in Modular Arithmetic)
+    Modular multiplicative inverse
+    Modular Division
+    Multiplicative order
+    Euler’s criterion (Check if square root under modulo p exists)
+    Multiply large integers under large modulo
+    Find sum of modulo K of first N natural number
+    How to compute mod of a big number?
+    How to avoid overflow in modular multiplication?
+    Given two numbers a and b find all x such that a % x = b
+    Breaking an Integer to get Maximum Product
+    Program to find remainder without using modulo or % operator    
+
+
+
+Catalan Numbers
+    Catalan numbers
+    Applications of Catalan Numbers
+    Program for nth Catalan Number
+    Dyck path
+    Non-crossing lines to connect points in a circle
+    Succinct Encoding of Binary Tree
+    Find the number of valid parentheses expressions of given length
+
+
+
+Euler Totient Function
+    Euler’s Totient Function
+    Optimized Euler Totient Function for Multiple Evaluations
+    Euler’s Totient function for all numbers smaller than or equal to n
+    Primitive root of a prime number n modulo n
+    Euler’s Four Square Identity
+
+
+nCr Computations
+    Binomial Coefficient
+    Compute nCr % p 
+    Compute nCr % p | Set 2 (Lucas Theorem)
+    Compute nCr % p | Set 3 (Using Fermat Little Theorem)
+    Program to calculate value of nCr
+    Probability for three randomly chosen numbers to be in AP
+    Rencontres Number (Counting partial derangements)
+    Sum of squares of binomial coefficients
+    Find sum of even index binomial coefficients
+    Maximum binomial coefficient term value
+    Program for Binomial Coefficients table
+    Sum of Binomial coefficients
+ 
+
+
+
+Factorial
+    Factorial
+    Legendre’s formula (Given p and n, find the largest x such that p^x divides n!)
+    Sum of divisors of factorial of a number
+    Count Divisors of Factorial
+    Compute n! under modulo p
+    Double factorial
+    Count trailing zeroes in factorial of a number
+    Primorial of a number
+    Expressing factorial n as sum of consecutive numbers
+    One line function for factorial of a number
+    get all prime numbers smaller than n
+    Calculating Factorials using Stirling Approximation
+    Check if a number is a Krishnamurthy Number or not
+    Count natural numbers whose factorials are divisible by x but not y
+
+ 
+
+
+Set Theory
+    Minimize the absolute difference of sum of two subsets
+    Sum of all subsets of a set formed by first n natural numbers
+    Sum of average of all subsets
+    Bell Numbers (Number of ways to Partition a Set)
+    Power Set    
+
+
+Prime numbers and Primality Tests
+    Prime Numbers
+    Special prime numbers
+    Prime numbers and Fibonacci
+    Left-Truncatable Prime
+    Mersenne Prime
+    Super Prime
+    Palindromic Primes
+    Prime Triplet
+    Hardy-Ramanujan Theorem
+    Rosser’s Theorem
+    Fermat’s little theorem
+    Composite Number
+    Euclid Euler Theorem
+    Euclid’s Lemma
+
+
+
+Sieve Algorithms:
+    Sieve of Eratosthenes
+    Segmented Sieve
+    Sieve of Atkin
+    Sieve of Sundaram to print all primes smaller than n
+    Sieve of Eratosthenes in 0(n) time complexity
+    Arithmetic Number
+
+
+Divisibility and Large Numbers
+    Check if a large number is divisible by 3 or not
+    Check if a large number is divisible by 4 or not
+    Check divisibility by 7
+    Check if a large number is divisible by 9 or not
+    Check if a large number is divisible by 11 or not
+    Divisibility by 12 for a large number
+    Check if a large number is divisible by 13 or not
+    Check if a large number is divisibility by 15
+    Check if a large number is divisible by 20
+    Number is divisible by 29 or not
+
+
+Series:
+    Juggler Sequence
+    Padovan Sequence
+    Aliquot Sequence
+    Moser-de Bruijn Sequence
+    Stern-Brocot Sequence
+    Newman-Conway Sequence
+    Sylvester’s sequence
+    Recaman’s sequence
+    Abundant Number
+    Hexagonal Number
+    Emirp numbers
+    Nicomachus’s Theorem (Sum of k-th group of odd positive numbers)
+    Sum of pairwise products
+    Squared triangular number (Sum of cubes)
+    Square pyramidal number (Sum of Squares)
+    Program to print the sum of the given nth term
+    Sum of series with alternate signed squares of AP
+    Program for sum of cos(x) series
+    Sum of range in a series of first odd then even natural numbers
+    Sum of the sequence 2, 22, 222, ………
+    Sum of the series 5+55+555+.. up to n terms
+    Sum of series 1^2 + 3^2 + 5^2 + . . . + (2*n – 1)^2
+    Sum of series 2/3 – 4/5 + 6/7 – 8/9 + ——- upto n terms
+    Sum of the series 0.6, 0.06, 0.006, 0.0006, …to n terms
+    n-th term in series 2, 12, 36, 80, 150….
+    Program to print tetrahedral numbers upto Nth term
+
+
+
+
+Number Digits  (FAU)
+    n-th number whose sum of digits is ten
+    Minimum digits to remove to make a number Perfect Square
+    Count digits in given number N which divide N
+    Count digit groupings of a number with given constraints
+    Print first k digits of 1/n where n is a positive integer
+    Program to check if a given number is Lucky
+    Check if a given number can be represented in given a no. of digits in any base
+    Count n digit numbers not having a particular digit
+    Program to check Plus Perfect Number
+    Total numbers with no repeated digits in a range
+    K-th digit in ‘a’ raised to power ‘b’
+    Possible to make a divisible by 3 number using all digits in an array
+
+
+
+
+Number System
+    Exponential notation of a decimal number
+    Check if a number is power of k using base changing method
+    Check if number is palindrome or not in Octal
+    Check if a number N starts with 1 in b-base
+    Convert a binary number to hexadecimal number
+    Program for decimal to hexadecimal conversion
+    Converting a Real Number (between 0 and 1) to Binary String
+    Count of Binary Digit numbers smaller than N
+    Write a program to add two numbers in base 14
+    Convert from any base to decimal and vice versa
+    Decimal to binary conversion without using arithmetic operators

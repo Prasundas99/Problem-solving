@@ -1,0 +1,9 @@
+Factorization
+Factor of a number N is a number d such that d divides N.
+That is, N % d == 0.
+
+Example:
+
+For number 6, the factors are 1, 2, 3 and 6.
+
+This is best explained through working our way through some sample problems.

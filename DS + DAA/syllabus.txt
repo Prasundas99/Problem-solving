@@ -30,23 +30,26 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 2)	Mathematics
+        GCD and LCM
+        Prime Factorization and Divisors
+        Fibonacci Numbers
+        Catalan Numbers
+        Modular Arithmetic
+        Euler Totient Function
+        nCr Computations
+        Set Theory
+        Factorial
+        Prime numbers and Primality Tests
+        Sieve Algorithms
+        Divisibility and Large Numbers
+        Series
+        Number Digits
+        Number System
+            ○   Base Number System
+            ○   Unary Number System
+            ○   Binary Number System
+            ○   Base Conversion For Base N Digits
 
-●	Mathematics
-    ○   Factorization
-    ○   Base Number System
-    ○   Unary Number System
-    ○   Binary Number System
-    ○   Base Conversion For Base N Digits
-●	Practice Problems
-    ○	Count Digits
-    ○	Palindrome Numbers
-    ○	Factorial of Numbers
-    ○	GCD of Two Numbers
-    ○	LCM of Two Numbers
-    ○	Check for Prime
-    ○	Prime Factors
-    ○	Sieve of Eratosthenes
-    ○	Computing Power
 
 --------------------------------------------------------------------------------------------------------------------------------
 

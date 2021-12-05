@@ -1,9 +1,7 @@
 GCD and LCM
     GCD and LCM
     Basic and Extended Euclidean algorithms
-    Product of given N fractions in reduced form
-    GCD of two numbers when one of them can be very large
-    Stein’s Algorithm for finding GCD
+    Stein’s Algorithm for finding GCD (extras)
 
 
 
@@ -226,3 +224,7 @@ Number System
     Write a program to add two numbers in base 14
     Convert from any base to decimal and vice versa
     Decimal to binary conversion without using arithmetic operators
+
+
+Solutions:
+    https://www.geeksforgeeks.org/mathematical-algorithms/

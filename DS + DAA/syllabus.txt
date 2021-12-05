@@ -53,7 +53,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-4)	Recursion
+3)	Recursion
 ●	Introduction to Recursion
 ●	Applications of Recursion
 ●	Writing base cases in Recursion

@@ -1,4 +1,4 @@
-Base Number System
+# Base Number System
 This is another very important concept in computer science. Particularly because of how data is represented within machines.
 Taking up bit arithmetic as a topic separately, let us initiate with understanding what those terms even mean.
 

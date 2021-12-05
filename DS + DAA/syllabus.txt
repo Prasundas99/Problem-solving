@@ -32,6 +32,12 @@
 2)	Mathematics
 
 ●	Mathematics
+    ○   Factorization
+    ○   Base Number System
+    ○   Unary Number System
+    ○   Binary Number System
+    ○   Base Conversion For Base N Digits
+●	Practice Problems
     ○	Count Digits
     ○	Palindrome Numbers
     ○	Factorial of Numbers
@@ -41,7 +47,6 @@
     ○	Prime Factors
     ○	Sieve of Eratosthenes
     ○	Computing Power
-●	Practice Problems
 
 --------------------------------------------------------------------------------------------------------------------------------
 

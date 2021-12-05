@@ -30,6 +30,9 @@ Now look at the reverse process. Which is given a decimal number N, how do we co
 To do this conversion, we need to divide repeatedly by 2, keeping track of the remainders as we go. Watch below:
 Let us say our number is 357.
 
-Number conversion to binary: http://i.imgur.com/TFB2qnl.gif
+Number conversion to binary:
+
+![TFB2qnl](https://user-images.githubusercontent.com/58937669/144742048-c03c2001-3cf0-4287-b672-b86434b5c970.gif)
+
 
 Thus the number converts to 101100101

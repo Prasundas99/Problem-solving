@@ -80,7 +80,7 @@
 6. https://www.youtube.com/watch?v=gDGw0cvFXPQ&list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod&index=9
 7. https://www.youtube.com/watch?v=9ByWqPzfXDU&list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod&index=10
 */
- 2 days
+
 ----------------------------------------------------------------------------------------
 
 5)	Arrays

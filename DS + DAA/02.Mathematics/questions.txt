@@ -80,7 +80,7 @@ Euler Totient Function
     Euler’s Four Square Identity
 
 
-nCr Computations
+nCr Computations (imp)
     Binomial Coefficient
     Compute nCr % p 
     Compute nCr % p | Set 2 (Lucas Theorem)
@@ -164,7 +164,7 @@ Divisibility and Large Numbers
     Number is divisible by 29 or not
 
 
-Series:
+Series: (TCS imp)
     Juggler Sequence
     Padovan Sequence
     Aliquot Sequence

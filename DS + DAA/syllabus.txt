@@ -193,7 +193,7 @@
 1day
 -----------------------------------------------------------------------------------------------------------
 
-9)	Hashing
+9)	Hashing (imp)
 ●	Introduction and Time complexity analysis
 ●	Application of Hashing
 ●	Discussion on Direct Address Table
@@ -249,8 +249,9 @@
 
 1day
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+slow pointer fast pointer
 
-11)	Linked List
+11)	Linked List 
 ●	Introduction
     ○	Implementation in CPP
     ○	Implementation in Java
@@ -324,7 +325,7 @@
     ○	First Circular Tour
 ●	Practice Problems
 
-1day
+1day ring buffer
 ---------------------------------------------------------------------------------------------------------
 14)	Deque
 ●	Introduction and Application
@@ -413,7 +414,7 @@
 
 1day
 ------------------------------------------------------------------------------------------
-17)	Heap
+17)	Heap (fau)
 ●	Introduction & Implementation
 ●	Binary Heap
     ○	Insertion
@@ -433,7 +434,7 @@
 1day
 -------------------------------------------------------------------------------------------
 
-18)	Graph
+18)	Graph (imp)
 ●	Introduction to Graph
 ●	Graph Representation
     ○	Adjacency Matrix
@@ -482,12 +483,12 @@
 20)	Backtracking
 ●	Concepts of Backtracking
 ●	Rat In a Maze
-●	N Queen Problem
+●	N Queen Problem (.)
 ●	Sudoku Problem
 ●	Practice Problems
 2day
 ------------------------------------------------------------------------------------------
-21)	Dynamic Programming
+21)	Dynamic Programming (imp)
 ●	Introduction
 ●	Dynamic Programming
     ○	Memoization
@@ -542,7 +543,7 @@
 1day
 ------------------------------------------------------------------------------------------------------
 
-24)	Disjoint Set
+24)	Disjoint Set (semi)
 ●	Introduction
 ●	Find and Union Operations
 ●	Union by Rank

@@ -39,7 +39,18 @@ int main() {
 /*
 Working with variables in recursion:
 
-1. Arguments
+1. Arguments  -> Will be followed in the next function call
 2. Return Type
 3. Body of function
+
+
+
+
+
+Recurssion linearly is not optimised for large scale i.e: if i input 50 it will stuck because of repeated function call this is why recurssion is very inefficient
+solution?
+DP - Dinamic Programing -> If 2 or more function of recurssion calls are doing same work dont compute it again and again
+
+
+This is DP + recurssion is very important topic
 */

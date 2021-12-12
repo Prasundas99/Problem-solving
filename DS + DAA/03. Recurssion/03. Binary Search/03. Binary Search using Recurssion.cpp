@@ -51,7 +51,7 @@ int binarySearchUsingRecurssion(int arr[], int start, int end, int target){
         end = mid-1;
     }  
     //Recurring call
-    binarySearchUsingRecurssion(arr , start, end, target);
+    return binarySearchUsingRecurssion(arr , start, end, target);
 }
 
 

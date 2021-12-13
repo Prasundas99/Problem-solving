@@ -62,6 +62,7 @@
 ●	Various problems on Recursion(With Video Solutions)
     ○	Print n to 1
     ○	Print 1 to n
+    ○	product of n to 1    
     ○	Tail Recursion
     ○	Checking Palindrome
     ○	Sum of digits

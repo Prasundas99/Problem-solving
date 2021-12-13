@@ -92,6 +92,9 @@
     ○	Arrays vs other DS
     ○	Reversing - Explanation with complexity
 ●	Problems(With Video Solutions)
+    ○	swaping values in array
+    ○	Max value i an array
+    ○	Reversing an array
     ○	Left Rotation of the array by 1
     ○	Check if Sorted
     ○	Left Rotation of the array by D places

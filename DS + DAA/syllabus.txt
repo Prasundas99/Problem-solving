@@ -62,10 +62,10 @@
 ●	Various problems on Recursion(With Video Solutions)
     ○	Print n to 1
     ○	Print 1 to n
-    ○	product of n to 1    
+    ○	product of n to 1
+    ○	Sum of digits    
     ○	Tail Recursion
     ○	Checking Palindrome
-    ○	Sum of digits
     ○	Rod cutting
     ○	Subsets of a set
     ○	Tower of Hanoi Problem

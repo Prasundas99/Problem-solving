@@ -69,20 +69,16 @@
     ○	Subsets of a set
     ○	Tower of Hanoi Problem
     ○	Josephus Problem
+    Pick up later:
+        Recurssion in array
+        Pattern question
+        Bubble sort
+        sellection sort
+        Merge sort
+        Quick sort
+        Subset subsequence string
 ●	Practice Problems
-
-/* 
-1. https://www.youtube.com/watch?v=M2uO2nMT0Bk&list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod&index=2&t=3471s
-2. https://www.youtube.com/watch?v=JxILxTwHukM&list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod&index=3
-3. https://www.youtube.com/watch?v=sTdiMLom00U&list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod&index=4
-4. https://www.youtube.com/watch?v=ymgnIIclCF0&list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod&index=5
-5. https://www.youtube.com/watch?v=gdifkIwCJyg&list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod&index=8
-6. https://www.youtube.com/watch?v=gDGw0cvFXPQ&list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod&index=9
-7. https://www.youtube.com/watch?v=9ByWqPzfXDU&list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod&index=10
-*/
-
-----------------------------------------------------------------------------------------
-
+  ----------------------------------------------------------------------------------------
 5)	Arrays
 ●	Introduction and Advantages
 ●	Types of Arrays

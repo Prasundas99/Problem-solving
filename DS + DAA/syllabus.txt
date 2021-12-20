@@ -112,7 +112,6 @@
     ○	Sliding Window Technique
     ○	Prefix Sum Technique
 ●	Practice Problems
-1 day
 -----------------------------------------------------------
 
 6)	Searching

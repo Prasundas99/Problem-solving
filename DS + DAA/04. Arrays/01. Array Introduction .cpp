@@ -57,7 +57,37 @@ int arr[6] = { 10, 20, 30, 40 }
 // 0. above is same as  "int arr[] = {10, 20, 30, 40, 0, 0}"
 
 
-//https://www.geeksforgeeks.org/arrays-in-c-cpp/
-//https://www.youtube.com/watch?v=n60Dn0UsbEk&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=8&t=648s
 	return 0;
+
+/*
+Advantages of an Array in C/C++: 
+
+Random access of elements using array index.
+Use of less line of code as it creates a single array of multiple elements.
+Easy access to all the elements.
+Traversal through the array becomes easy using a single loop.
+Sorting becomes easy as it can be accomplished by writing less line of code.
+Disadvantages of an Array in C/C++: 
+
+
+
+Allows a fixed number of elements to be entered which is decided at the time of declaration. Unlike a linked list, an array in C is not dynamic.
+Insertion and deletion of elements can be costly since the elements are needed to be managed in accordance with the new memory allocation.
+Facts about Array in C/C++: 
+
+Accessing Array Elements: 
+Array elements are accessed by using an integer index. Array index starts with 0 and goes till size of array minus 1.
+Name of the array is also a pointer to the first element of array.
+
+
+
+Ref Link: 
+https://www.geeksforgeeks.org/arrays-in-c-cpp/
+https://www.programiz.com/c-programming/c-pointers
+https://www.tutorialspoint.com/cplusplus/cpp_pointers.htm
+https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/
+https://stackoverflow.com/questions/4029870/how-to-create-a-dynamic-array-of-integers
+https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm
+
+*/
 }

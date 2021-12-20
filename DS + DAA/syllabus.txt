@@ -66,10 +66,6 @@
     ○	Sum of digits    
     ○	Tail Recursion
     ○	Checking Palindrome
-    ○	Rod cutting
-    ○	Subsets of a set
-    ○	Tower of Hanoi Problem
-    ○	Josephus Problem
     Pick up later:
         Recurssion in array
         Pattern question
@@ -78,6 +74,10 @@
         Merge sort
         Quick sort
         Subset subsequence string
+        Rod cutting
+    	Subsets of a set
+    	Tower of Hanoi Problem
+    	Josephus Problem
 ●	Practice Problems
   ----------------------------------------------------------------------------------------
 5)	Arrays
@@ -190,7 +190,7 @@
 ●	Practice Problems
 ○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
 
-1day
+
 -----------------------------------------------------------------------------------------------------------
 
 9)	Hashing (imp)
@@ -247,7 +247,7 @@
 ●	Practice Problems
 ○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
 
-1day
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 slow pointer fast pointer
 
@@ -283,7 +283,7 @@ slow pointer fast pointer
     ○	Reverse a Doubly Linked List
 ●	Practice Problems
 
-2day
+
 ---------------------------------------------------------------------------------------------------------------
 
 
@@ -311,7 +311,7 @@ slow pointer fast pointer
     ○	Evaluation of Prefix
 ●	Practice Problems
 
-1day
+
 ----------------------------------------------------------------------------------------------------------
 13)	Queue
 ●	Introduction and Application
@@ -325,7 +325,7 @@ slow pointer fast pointer
     ○	First Circular Tour
 ●	Practice Problems
 
-1day ring buffer
+
 ---------------------------------------------------------------------------------------------------------
 14)	Deque
 ●	Introduction and Application
@@ -338,7 +338,7 @@ slow pointer fast pointer
     ○	Design a DS with min max operations
 ●	Practice Problems
 
-1dau
+
 ------------------------------------------------------------------------------------
 
 15)	Tree
@@ -375,7 +375,7 @@ slow pointer fast pointer
     ○	Iterative Preorder Traversal (Space Optimized)
 ●	Practice Problems
 
-2day
+
 -----------------------------------------------------------------------------------------------------
 16)	Binary Search Tree
 ●	Background, Introduction and Application
@@ -412,7 +412,7 @@ slow pointer fast pointer
     ○	Bottom View of Binary Tree
 ●	Practice Problems
 
-1day
+
 ------------------------------------------------------------------------------------------
 17)	Heap (fau)
 ●	Introduction & Implementation
@@ -431,7 +431,7 @@ slow pointer fast pointer
     ○	Median of a Stream
 ●	Practice Problems
 
-1day
+
 -------------------------------------------------------------------------------------------
 
 18)	Graph (imp)
@@ -467,7 +467,7 @@ slow pointer fast pointer
 ●	Tarjan’s Algorithm
 ●	Practice Problems
 
-2day
+
 ------------------------------------------------------------------------------------------------------
 
 19)	Greedy
@@ -478,7 +478,7 @@ slow pointer fast pointer
 ●	Huffman Coding
 ●	Practice Problems
 
-3day
+
 ---------------------------------------------------------------------------------
 20)	Backtracking
 ●	Concepts of Backtracking
@@ -486,7 +486,7 @@ slow pointer fast pointer
 ●	N Queen Problem (.)
 ●	Sudoku Problem
 ●	Practice Problems
-2day
+
 ------------------------------------------------------------------------------------------
 21)	Dynamic Programming (imp)
 ●	Introduction
@@ -519,7 +519,7 @@ slow pointer fast pointer
     ○	Palindrome Parititioning
 ●	Practice Problems
 
-4days
+
 -----------------------------------------------------------------------------------------
 22)	Trie
 ●	Introduction
@@ -530,7 +530,7 @@ slow pointer fast pointer
 ●	Count Distinct Rows in a Binary Matrix
 ●	Practice Problems
 
-1day
+
 --------------------------------------------------------------------------------------------
 
 23)	Segment Tree
@@ -540,7 +540,7 @@ slow pointer fast pointer
 ●	Update Query
 ●	Practice Problems
 
-1day
+
 ------------------------------------------------------------------------------------------------------
 
 24)	Disjoint Set (semi)
@@ -551,7 +551,7 @@ slow pointer fast pointer
 ●	Kruskal's Algorithm
 
 
-1day
+
 
 
 Total: 35days

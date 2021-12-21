@@ -91,7 +91,6 @@
     ○	Insertions
     ○	Deletion
     ○	Arrays vs other DS
-    ○	Reversing - Explanation with complexity
 ●	Problems
     ○	swaping values in array
     ○	Max value i an array

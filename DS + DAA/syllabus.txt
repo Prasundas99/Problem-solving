@@ -116,7 +116,7 @@
 
 6)	Searching
 ●	Binary Search Iterative and Recursive
-●	Binary Search and various associated problems(With Video Solutions)
+●	Binary Search and various associated problems
     ○	Index of First Occurence in Sorted Array
     ○	Index of Last Occurence in Sorted Array
     ○	Count of occurrences of x in sorted element

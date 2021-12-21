@@ -86,12 +86,13 @@
     ○	Fixed-sized array
     ○	Dynamic-sized array
 ●	Operations on Arrays
+    ○	Traversing
     ○	Searching
     ○	Insertions
     ○	Deletion
     ○	Arrays vs other DS
     ○	Reversing - Explanation with complexity
-●	Problems(With Video Solutions)
+●	Problems
     ○	swaping values in array
     ○	Max value i an array
     ○	Reversing an array

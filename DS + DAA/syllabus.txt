@@ -93,7 +93,7 @@
     ○	Arrays vs other DS
 ●	Problems
     ○	swaping values in array
-    ○	Max value i an array
+    ○	Max value in an array
     ○	Reversing an array
     ○	Left Rotation of the array by 1
     ○	Check if Sorted
@@ -175,7 +175,7 @@
 4days
 --------------------------------------------------------------------------------------------------
 8)	Matrix
-●	Introduction to Matrix in C++ and Java
+●	Introduction to Matrix 
 ●	Multidimensional Matrix
 ●	Pass Matrix as Argument
 ●	Printing matrix in a snake pattern

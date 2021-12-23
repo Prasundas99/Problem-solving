@@ -95,6 +95,7 @@
     ○	swaping values in array
     ○	Max value in an array   (https://practice.geeksforgeeks.org/problems/help-a-thief5938/1)
     ○	Reversing an array (https://practice.geeksforgeeks.org/problems/reverse-an-array/0#)
+    Pick Up Later:
     ○	Left Rotation of the array by 1
     ○	Check if Sorted
     ○	Left Rotation of the array by D places
@@ -116,6 +117,8 @@
 
 6)	Searching
     Linear Search
+    Problems:
+        Search in Strings
 ●	Binary Search Iterative and Recursive
     Binary Search in 2-D array
 ●	Binary Search and various associated problems

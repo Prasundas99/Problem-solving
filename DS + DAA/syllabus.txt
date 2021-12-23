@@ -119,6 +119,7 @@
     Linear Search
     Problems:
         Search in Strings
+        Search in Range
 ●	Binary Search Iterative and Recursive
     Binary Search in 2-D array
 ●	Binary Search and various associated problems

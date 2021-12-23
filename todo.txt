@@ -1,0 +1,5 @@
+Linear Search
+2d array
+Bitwise Operator
+Mathematics
+Searching

@@ -51,6 +51,10 @@
             ○   Base Conversion For Base N Digits
 
 
+------------------------------------------------------------------------------------------------------------------------
+3)	Bitwise Operator
+
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 3)	Recursion
@@ -93,8 +97,9 @@
     ○	Arrays vs other DS
 ●	Problems
     ○	swaping values in array
-    ○	Max value i an array
-    ○	Reversing an array
+    ○	Max value in an array   (https://practice.geeksforgeeks.org/problems/help-a-thief5938/1)
+    ○	Reversing an array (https://practice.geeksforgeeks.org/problems/reverse-an-array/0#)
+    Pick Up Later:
     ○	Left Rotation of the array by 1
     ○	Check if Sorted
     ○	Left Rotation of the array by D places
@@ -113,9 +118,33 @@
     ○	Prefix Sum Technique
 ●	Practice Problems
 -----------------------------------------------------------
+8)	Matrix
+●	Introduction to Matrix 
+●	Multidimensional Matrix
+●	Pass Matrix as Argument
+●	Printing matrix in a snake pattern
+●	Transposing a matrix
+●	Rotating a Matrix
+●	Check if the element is present in a row and column-wise sorted matrix.
+●	Boundary Traversal
+●	Spiral Traversal
+●	Matrix Multiplication
+●	Search in row-wise and column-wise Sorted Matrix
+●	Practice Problems
+○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
+
+
+-----------------------------------------------------------------------------------------------------------
 
 6)	Searching
+    Linear Search
+    Problems:
+        Search in Strings
+        Search in Range
+        Find min in array
+    Linear Search in 2D arrays    
 ●	Binary Search Iterative and Recursive
+    Binary Search in 2-D array 
 ●	Binary Search and various associated problems
     ○	Index of First Occurence in Sorted Array
     ○	Index of Last Occurence in Sorted Array
@@ -125,11 +154,11 @@
     ○	Peak element
     ○	Find an element in an infinite sized sorted array
     ○	The square root of an integer
-●	Two Pointer Approach Problems(With Video Solutions)
+●	Two Pointer Approach Problems
     ○	Find pair in an unsorted array which gives sum X
     ○	Find pair in a sorted array which gives sum X
     ○	Find triplet in an array which gives sum X
-●	Problems(With Video Solutions)
+●	Problems
     ○	Median of two sorted arrays
     ○	Majority Element
 ●	Practice Problems
@@ -171,26 +200,28 @@
 ●	Bucket Sort
 ●	Overview of Sorting Algorithms
 ●	Practice Problems
-
-4days
---------------------------------------------------------------------------------------------------
-8)	Matrix
-●	Introduction to Matrix in C++ and Java
-●	Multidimensional Matrix
-●	Pass Matrix as Argument
-●	Printing matrix in a snake pattern
-●	Transposing a matrix
-●	Rotating a Matrix
-●	Check if the element is present in a row and column-wise sorted matrix.
-●	Boundary Traversal
-●	Spiral Traversal
-●	Matrix Multiplication
-●	Search in row-wise and column-wise Sorted Matrix
+-----------------------------------------------------------------------------------------------------------------------------
+10)	Strings
+●	Discussion of String DS
+●	Strings in CPP
+●	Strings in Java
+●	Problems(With Video Solutions):
+    ○	Given a string, check if they are an anagram of each other.
+    ○	Given a string, find the leftmost character that repeats.
+    ○	Given a string, find the leftmost character that does not repeat.
+    ○	Given a string, find the lexicographic rank of it in O(n) time.
+    ○	Implementation of the previously discussed lexicographic rank problem.
+    ○	Given a text string and a pattern string, find if a permutation of the
+    pattern exists in the text.
+    ○	Given two strings, check if they are rotations of each other or not.
+    ○	Various Pattern Searching Algorithms.
+    ○	Palindrome Check
+●	Rabin Karp Algorithm
+●	KMP Algorithm
 ●	Practice Problems
 ○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
 
-
------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 9)	Hashing (imp)
 ●	Introduction and Time complexity analysis
@@ -225,29 +256,6 @@
 
 2day
 ----------------------------------------------------------
-
-10)	Strings
-●	Discussion of String DS
-●	Strings in CPP
-●	Strings in Java
-●	Problems(With Video Solutions):
-    ○	Given a string, check if they are an anagram of each other.
-    ○	Given a string, find the leftmost character that repeats.
-    ○	Given a string, find the leftmost character that does not repeat.
-    ○	Given a string, find the lexicographic rank of it in O(n) time.
-    ○	Implementation of the previously discussed lexicographic rank problem.
-    ○	Given a text string and a pattern string, find if a permutation of the
-    pattern exists in the text.
-    ○	Given two strings, check if they are rotations of each other or not.
-    ○	Various Pattern Searching Algorithms.
-    ○	Palindrome Check
-●	Rabin Karp Algorithm
-●	KMP Algorithm
-●	Practice Problems
-○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
 slow pointer fast pointer
 
 11)	Linked List 

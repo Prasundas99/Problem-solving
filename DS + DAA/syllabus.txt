@@ -144,6 +144,7 @@
         Find min in array
         Linear Search in 2D arrays    
         Find Numbers with Even Number of Digits (https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+        https://leetcode.com/problems/richest-customer-wealth
 ●	Binary Search Iterative and Recursive
     Binary Search in 2-D array 
 ●	Binary Search and various associated problems

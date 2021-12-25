@@ -1,5 +1,8 @@
-Linear Search
 2d array
 Bitwise Operator
 Mathematics
+Question Practice Babbar
 Searching
+Sorting
+Question Practice
+Recurssion

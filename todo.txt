@@ -1,6 +1,6 @@
-2d array
 Bitwise Operator
 Mathematics
+2d array
 Question Practice Babbar
 Searching
 Sorting

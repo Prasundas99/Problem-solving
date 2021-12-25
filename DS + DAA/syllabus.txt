@@ -27,9 +27,31 @@
     ○	Space Analysis of Fibonacci number
 ●	Practice Problems
 
-
+------------------------------------------------------------------------------------------------------------------------
+3)	Bitwise Operator
+What is Bitwise Operator
+Bit Manupulation
+AND Operator
+OR Operator
+XOr Operator
+Compliment
+Left Shift
+right Shift
+Operator precedence
+Scope of variable
+Operations on Binary numbers
+NegativeBinary Number
+Range of number 
+Questions:
+    Find a number if it is odd or even
 ------------------------------------------------------------------------------------------------------------------------
 2)	Mathematics
+        Number System
+            ○   Base Number System
+            ○   Unary Number System
+            ○   Binary Number System
+            ○   Base Conversion For Base N Digits
+        
         GCD and LCM
         Prime Factorization and Divisors
         Fibonacci Numbers
@@ -44,17 +66,6 @@
         Divisibility and Large Numbers
         Series
         Number Digits
-        Number System
-            ○   Base Number System
-            ○   Unary Number System
-            ○   Binary Number System
-            ○   Base Conversion For Base N Digits
-
-
-------------------------------------------------------------------------------------------------------------------------
-3)	Bitwise Operator
-
-
 --------------------------------------------------------------------------------------------------------------------------------
 
 3)	Recursion

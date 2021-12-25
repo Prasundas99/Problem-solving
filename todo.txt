@@ -3,3 +3,6 @@ Linear Search
 Bitwise Operator
 Mathematics
 Searching
+Sorting
+Question Practice
+Recurssion

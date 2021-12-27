@@ -44,6 +44,9 @@ NegativeBinary Number
 Range of number 
 Questions:
     Find a number if it is odd or even
+    Find unique element in array
+    Find nth magic number
+    Find the number if it is power of 2
 ------------------------------------------------------------------------------------------------------------------------
 2)	Mathematics
         Number System

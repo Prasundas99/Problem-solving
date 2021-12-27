@@ -1,6 +1,4 @@
 2d array
-Bitwise Operator
-Mathematics
 Question Practice Babbar
 Searching
 Sorting

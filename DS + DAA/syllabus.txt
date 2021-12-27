@@ -27,9 +27,34 @@
     ○	Space Analysis of Fibonacci number
 ●	Practice Problems
 
-
+------------------------------------------------------------------------------------------------------------------------
+3)	Bitwise Operator
+What is Bitwise Operator
+Bit Manupulation
+AND Operator
+OR Operator
+XOr Operator
+Compliment
+Left Shift
+right Shift
+Operator precedence
+Scope of variable
+Operations on Binary numbers
+NegativeBinary Number
+Range of number 
+Questions:
+    Find a number if it is odd or even
+    Find unique element in array
+    Find nth magic number
+    Find the number if it is power of 2
 ------------------------------------------------------------------------------------------------------------------------
 2)	Mathematics
+        Number System
+            ○   Base Number System
+            ○   Unary Number System
+            ○   Binary Number System
+            ○   Base Conversion For Base N Digits
+        
         GCD and LCM
         Prime Factorization and Divisors
         Fibonacci Numbers
@@ -44,17 +69,6 @@
         Divisibility and Large Numbers
         Series
         Number Digits
-        Number System
-            ○   Base Number System
-            ○   Unary Number System
-            ○   Binary Number System
-            ○   Base Conversion For Base N Digits
-
-
-------------------------------------------------------------------------------------------------------------------------
-3)	Bitwise Operator
-
-
 --------------------------------------------------------------------------------------------------------------------------------
 
 3)	Recursion
@@ -119,21 +133,14 @@
 ●	Practice Problems
 -----------------------------------------------------------
 8)	Matrix
-●	Introduction to Matrix 
-●	Multidimensional Matrix
-●	Pass Matrix as Argument
-●	Printing matrix in a snake pattern
-●	Transposing a matrix
-●	Rotating a Matrix
-●	Check if the element is present in a row and column-wise sorted matrix.
-●	Boundary Traversal
-●	Spiral Traversal
-●	Matrix Multiplication
-●	Search in row-wise and column-wise Sorted Matrix
-●	Practice Problems
-○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
-
-
+    - Introduction to Matrix 
+    - Multidimensional Matrix
+    - Row-wise Input/Column wise input
+    - Linear Search over 2D arrays
+    - Row-wise Sum/Column wise Sum
+    - Largest Row sum
+    - Wave Print
+    - Spiral Print
 -----------------------------------------------------------------------------------------------------------
 
 6)	Searching

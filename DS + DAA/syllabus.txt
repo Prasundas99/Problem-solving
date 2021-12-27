@@ -133,21 +133,14 @@ Questions:
 ●	Practice Problems
 -----------------------------------------------------------
 8)	Matrix
-●	Introduction to Matrix 
-●	Multidimensional Matrix
-●	Pass Matrix as Argument
-●	Printing matrix in a snake pattern
-●	Transposing a matrix
-●	Rotating a Matrix
-●	Check if the element is present in a row and column-wise sorted matrix.
-●	Boundary Traversal
-●	Spiral Traversal
-●	Matrix Multiplication
-●	Search in row-wise and column-wise Sorted Matrix
-●	Practice Problems
-○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
-
-
+    - Introduction to Matrix 
+    - Multidimensional Matrix
+    - Row-wise Input/Column wise input
+    - Linear Search over 2D arrays
+    - Row-wise Sum/Column wise Sum
+    - Largest Row sum
+    - Wave Print
+    - Spiral Print
 -----------------------------------------------------------------------------------------------------------
 
 6)	Searching

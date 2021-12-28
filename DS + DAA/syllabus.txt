@@ -135,6 +135,7 @@ Questions:
 8)	Matrix
     - Introduction to Matrix 
     - Multidimensional Matrix
+    - How it is stored in memory
     - Row-wise Input/Column wise input
     - Linear Search over 2D arrays
     - Row-wise Sum/Column wise Sum

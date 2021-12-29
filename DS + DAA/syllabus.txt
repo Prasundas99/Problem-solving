@@ -142,40 +142,27 @@ Questions:
     - Largest Row sum
     - Spiral Print (https://leetcode.com/problems/spiral-matrix)
     - Transpose of a matrix (https://leetcode.com/problems/transpose-matrix/)
-    - Rotate Matrix 90 degree (https://leetcode.com/problems/rotate-image/)
 -----------------------------------------------------------------------------------------------------------
-
 6)	Searching
     Linear Search
     Problems:
         Search in Strings
         Search in Range
         Find min in array
-        Linear Search in 2D arrays    
+    Linear Search in 2D arrays    
         Find Numbers with Even Number of Digits (https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
-        https://leetcode.com/problems/richest-customer-wealth
-●	Binary Search Iterative and Recursive
+        (Find largest number in array  (https://leetcode.com/problems/richest-customer-wealth)
+●	Binary Search Iterative and Recursive (https://leetcode.com/problems/binary-search/)
+    When Can we apply Binary Search
+    Problems:
+        Ceiling of a number
+        Floor of a number
+        Smallest Letter
     Binary Search in 2-D array (https://leetcode.com/problems/search-a-2d-matrix-ii/)
-●	Binary Search and various associated problems
-    ○	Index of First Occurence in Sorted Array
-    ○	Index of Last Occurence in Sorted Array
-    ○	Count of occurrences of x in sorted element
-    ○	Count of 1s in a binary sorted array
-    ○	Find an element in sorted and rotated array
-    ○	Peak element
-    ○	Find an element in an infinite sized sorted array
-    ○	The square root of an integer
-●	Two Pointer Approach Problems
-    ○	Find pair in an unsorted array which gives sum X
-    ○	Find pair in a sorted array which gives sum X
-    ○	Find triplet in an array which gives sum X
-●	Problems
-    ○	Median of two sorted arrays
-    ○	Majority Element
-●	Practice Problems
-
+    Problems on 2-D Binary Search
+        q1
+        q2
 -----------------------------------------------------------------------
-
 7)	Sorting
 ●	Implementation of C++ STL sort() function in Arrays and Vectors
     ○	Time Complexities
@@ -232,6 +219,13 @@ Questions:
 ●	Practice Problems
 ○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
 
+---------------------------------------------------------------------------------
+20)	Backtracking
+●	Concepts of Backtracking
+●	Rat In a Maze
+●	N Queen Problem (.)
+●	Sudoku Problem
+●	Practice Problems
 --------------------------------------------------------------------------------------------------
 
 9)	Hashing (imp)
@@ -262,10 +256,6 @@ Questions:
     ○	Count Distinct elements in every window
     ○	More than n/k Occurences
     ○	Optimized More than n/k Solution
-●	Practice Problems
-○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
-
-2day
 ----------------------------------------------------------
 slow pointer fast pointer
 
@@ -301,9 +291,7 @@ slow pointer fast pointer
     ○	Reverse a Doubly Linked List
 ●	Practice Problems
 
-
 ---------------------------------------------------------------------------------------------------------------
-
 
 12)	Stack
 ●	Understanding the Stack data structure
@@ -494,15 +482,6 @@ slow pointer fast pointer
 ●	Fractional Knapsack
 ●	Job Sequencing Problem
 ●	Huffman Coding
-●	Practice Problems
-
-
----------------------------------------------------------------------------------
-20)	Backtracking
-●	Concepts of Backtracking
-●	Rat In a Maze
-●	N Queen Problem (.)
-●	Sudoku Problem
 ●	Practice Problems
 
 ------------------------------------------------------------------------------------------

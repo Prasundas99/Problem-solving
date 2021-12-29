@@ -20,6 +20,22 @@ for(int i=0;i<matrixSize; i++){
 
 }
 
+//LargestRowSum
+void printLargestRowSum(int matrix[][3], int matrixSize, int matrixColSize){
+int maxSum = 0;
+for(int i=0;i<matrixSize; i++){
+    int sum = 0;
+    for(int j=0; j< matrixColSize; j++){
+        sum = sum + matrix[i][j];
+    }
+    if(sum>maxSum)
+    maxSum = sum;
+}
+cout<<maxSum;
+}
+
+
+
 void printMatrix(int matrix[][3], int matrixSize, int matrixColSize){
 for(int i=0;i<matrixSize; i++){
     int sum = 0;

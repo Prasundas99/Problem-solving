@@ -140,8 +140,8 @@ Questions:
     - Linear Search over 2D arrays
     - Row-wise Sum/Column wise Sum
     - Largest Row sum
-    - Wave Print
     - Spiral Print
+    - Rotate Matrix 90 degree (https://leetcode.com/problems/rotate-image/)
 -----------------------------------------------------------------------------------------------------------
 
 6)	Searching

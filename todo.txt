@@ -1,6 +1,0 @@
-2d array
-Question Practice Babbar
-Searching
-Sorting
-Question Practice
-Recurssion

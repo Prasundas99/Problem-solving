@@ -219,13 +219,6 @@ Questions:
 ●	Practice Problems
 ○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
 
----------------------------------------------------------------------------------
-20)	Backtracking
-●	Concepts of Backtracking
-●	Rat In a Maze
-●	N Queen Problem (.)
-●	Sudoku Problem
-●	Practice Problems
 --------------------------------------------------------------------------------------------------
 
 9)	Hashing (imp)
@@ -482,6 +475,13 @@ slow pointer fast pointer
 ●	Fractional Knapsack
 ●	Job Sequencing Problem
 ●	Huffman Coding
+●	Practice Problems
+---------------------------------------------------------------------------------
+20)	Backtracking
+●	Concepts of Backtracking
+●	Rat In a Maze
+●	N Queen Problem (.)
+●	Sudoku Problem
 ●	Practice Problems
 
 ------------------------------------------------------------------------------------------

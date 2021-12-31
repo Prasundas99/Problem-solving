@@ -26,7 +26,6 @@
     ○	Space Analysis of Recursion
     ○	Space Analysis of Fibonacci number
 ●	Practice Problems
-
 ------------------------------------------------------------------------------------------------------------------------
 3)	Bitwise Operator
 What is Bitwise Operator
@@ -515,8 +514,6 @@ slow pointer fast pointer
     ○	Matrix Chain Multiplication
     ○	Palindrome Parititioning
 ●	Practice Problems
-
-
 -----------------------------------------------------------------------------------------
 22)	Trie
 ●	Introduction
@@ -526,20 +523,14 @@ slow pointer fast pointer
     ○	Delete
 ●	Count Distinct Rows in a Binary Matrix
 ●	Practice Problems
-
-
 --------------------------------------------------------------------------------------------
-
 23)	Segment Tree
 ●	Introduction
 ●	Construction
 ●	Range Query
 ●	Update Query
 ●	Practice Problems
-
-
 ------------------------------------------------------------------------------------------------------
-
 24)	Disjoint Set (semi)
 ●	Introduction
 ●	Find and Union Operations

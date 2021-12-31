@@ -49,3 +49,6 @@ cin>>target;
 ceiling(arr, 0, n, target);
 	return 0;
 }
+
+
+//47 mins

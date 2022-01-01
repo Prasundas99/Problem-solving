@@ -39,3 +39,11 @@ int main() {
 	cout<<answer;
 	return 0;
 }
+
+
+/*
+When to apply Binary Search?
+If we have to deal with sorted array or if we are following any sequence
+
+
+*/

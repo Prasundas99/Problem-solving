@@ -26,7 +26,6 @@
     ○	Space Analysis of Recursion
     ○	Space Analysis of Fibonacci number
 ●	Practice Problems
-
 ------------------------------------------------------------------------------------------------------------------------
 3)	Bitwise Operator
 What is Bitwise Operator
@@ -219,13 +218,6 @@ Questions:
 ●	Practice Problems
 ○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
 
----------------------------------------------------------------------------------
-20)	Backtracking
-●	Concepts of Backtracking
-●	Rat In a Maze
-●	N Queen Problem (.)
-●	Sudoku Problem
-●	Practice Problems
 --------------------------------------------------------------------------------------------------
 
 9)	Hashing (imp)
@@ -483,6 +475,13 @@ slow pointer fast pointer
 ●	Job Sequencing Problem
 ●	Huffman Coding
 ●	Practice Problems
+---------------------------------------------------------------------------------
+20)	Backtracking
+●	Concepts of Backtracking
+●	Rat In a Maze
+●	N Queen Problem (.)
+●	Sudoku Problem
+●	Practice Problems
 
 ------------------------------------------------------------------------------------------
 21)	Dynamic Programming (imp)
@@ -515,8 +514,6 @@ slow pointer fast pointer
     ○	Matrix Chain Multiplication
     ○	Palindrome Parititioning
 ●	Practice Problems
-
-
 -----------------------------------------------------------------------------------------
 22)	Trie
 ●	Introduction
@@ -526,20 +523,14 @@ slow pointer fast pointer
     ○	Delete
 ●	Count Distinct Rows in a Binary Matrix
 ●	Practice Problems
-
-
 --------------------------------------------------------------------------------------------
-
 23)	Segment Tree
 ●	Introduction
 ●	Construction
 ●	Range Query
 ●	Update Query
 ●	Practice Problems
-
-
 ------------------------------------------------------------------------------------------------------
-
 24)	Disjoint Set (semi)
 ●	Introduction
 ●	Find and Union Operations

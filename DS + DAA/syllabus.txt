@@ -98,7 +98,17 @@ Questions:
 ●	Practice Problems
   ----------------------------------------------------------------------------------------
 5)	Arrays
-●	Introduction and Advantages
+    Why we need array
+    What is an array
+    Syntax
+        C
+        java
+    How does array works
+    Internal working of an array
+    Dynamic memory allocation
+    Continuity if an array
+    Index of an array
+    String array    
 ●	Types of Arrays
     ○	Fixed-sized array
     ○	Dynamic-sized array
@@ -108,7 +118,8 @@ Questions:
     ○	Insertions
     ○	Deletion
     ○	Arrays vs other DS
-Array in Java    
+Array in Java   
+  
 ●	Problems
     ○	swaping values in array
     ○	Max value in an array   (https://practice.geeksforgeeks.org/problems/help-a-thief5938/1)

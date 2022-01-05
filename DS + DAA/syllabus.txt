@@ -98,7 +98,17 @@ Questions:
 ●	Practice Problems
   ----------------------------------------------------------------------------------------
 5)	Arrays
-●	Introduction and Advantages
+    Why we need array
+    What is an array
+    Syntax
+        C
+        java
+    How does array works
+    Internal working of an array
+    Dynamic memory allocation
+    Continuity if an array
+    Index of an array
+    String array    
 ●	Types of Arrays
     ○	Fixed-sized array
     ○	Dynamic-sized array
@@ -108,7 +118,8 @@ Questions:
     ○	Insertions
     ○	Deletion
     ○	Arrays vs other DS
-Array in Java    
+Array in Java   
+  
 ●	Problems
     ○	swaping values in array
     ○	Max value in an array   (https://practice.geeksforgeeks.org/problems/help-a-thief5938/1)
@@ -164,41 +175,14 @@ Array in Java
 ●    Problems on 2-D Binary Search
         Row-col Matrix
         Binary Search in sorted matrix
-
------------------------------------------------------------------------
-7)	Sorting
-●	Stability in Sorting Algorithms
-    ○	Examples of Stable and Unstable Algos
-●	Bubble Sort
-●	Selection Sort
-●	Insertion Sort
-●	Merge Sort
-●	Problems(With Video Solutions)
-    ○	Intersection of 2 sorted arrays
-    ○	Union of 2 sorted arrays
-    ○	Count Inversions in arrays
-●	Partitions(With Video Solutions)
-    ○	Naive
-    ○	Lomuto
-    ○	Hoare
-●	Quick Sort
-    ○	Using Lomuto and Hoare
-    ○	Time and Space analysis
-    ○	Choice of Pivot and Worst case
-    ○	Tail call elimination
-●	Problems(With Video Solutions)
-    ○	Kth Smallest element
-    ○	Chocolate Distribution Problem
-    ○	Sorting arrays with 2 and3 types of elements
-    ○	Merge Overlapping Intervals
-    ○	Meeting the Maximum Guests
-●	Heap Sort
-●	Cycle Sort
-●	Counting Sort
-●	Radix Sort
-●	Bucket Sort
-●	Overview of Sorting Algorithms
-●	Practice Problems
+-------------------------------------------------------
+Sorting
+    Insertion Sort
+    Selection Sort
+    Bubble Sort
+    Cyclic Sort
+    Merge Sort
+    Quick Sort
 -----------------------------------------------------------------------------------------------------------------------------
 10)	Strings
 ●	Discussion of String DS
@@ -220,36 +204,6 @@ Array in Java
 ●	Practice Problems
 ○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
 
---------------------------------------------------------------------------------------------------
-
-9)	Hashing (imp)
-●	Introduction and Time complexity analysis
-●	Application of Hashing
-●	Discussion on Direct Address Table
-●	Working and examples on various Hash Functions
-●	Introduction and Various techniques on Collision Handling
-●	Chaining and its implementation
-●	Open Addressing and its Implementation
-●	Chaining V/S Open Addressing
-●	Double Hashing
-●	C++
-    ○	Unordered Set
-    ○	Unordered Map
-●	Problems(With Video Solutions):
-    ○	Count Distinct Elements
-    ○	Count of the frequency of array elements
-    ○	The intersection of two arrays
-    ○	Union of two unsorted arrays
-    ○	Pair with given sum in an unsorted array
-    ○	Subarray with zero-sum
-    ○	Subarray with given sum
-    ○	Longest subarray with a given sum
-    ○	Longest subarray with an equal number of 0’s and 1’s
-    ○	Longest common span with the same sum in a binary array
-    ○	Longest Consecutive Subsequence
-    ○	Count Distinct elements in every window
-    ○	More than n/k Occurences
-    ○	Optimized More than n/k Solution
 ----------------------------------------------------------
 slow pointer fast pointer
 
@@ -431,6 +385,70 @@ slow pointer fast pointer
     ○	Median of a Stream
 ●	Practice Problems
 
+--------------------------------------------------------------------------------------------------
+
+9)	Hashing (imp)
+●	Introduction and Time complexity analysis
+●	Application of Hashing
+●	Discussion on Direct Address Table
+●	Working and examples on various Hash Functions
+●	Introduction and Various techniques on Collision Handling
+●	Chaining and its implementation
+●	Open Addressing and its Implementation
+●	Chaining V/S Open Addressing
+●	Double Hashing
+●	C++
+    ○	Unordered Set
+    ○	Unordered Map
+●	Problems(With Video Solutions):
+    ○	Count Distinct Elements
+    ○	Count of the frequency of array elements
+    ○	The intersection of two arrays
+    ○	Union of two unsorted arrays
+    ○	Pair with given sum in an unsorted array
+    ○	Subarray with zero-sum
+    ○	Subarray with given sum
+    ○	Longest subarray with a given sum
+    ○	Longest subarray with an equal number of 0’s and 1’s
+    ○	Longest common span with the same sum in a binary array
+    ○	Longest Consecutive Subsequence
+    ○	Count Distinct elements in every window
+    ○	More than n/k Occurences
+    ○	Optimized More than n/k Solution
+--------------------------------------------------------------------------------------------------------
+7)	Sorting (cntd())
+●	Stability in Sorting Algorithms
+    ○	Examples of Stable and Unstable Algos
+●	Bubble Sort
+●	Selection Sort
+●	Insertion Sort
+●	Merge Sort
+●	Problems(With Video Solutions)
+    ○	Intersection of 2 sorted arrays
+    ○	Union of 2 sorted arrays
+    ○	Count Inversions in arrays
+●	Partitions(With Video Solutions)
+    ○	Naive
+    ○	Lomuto
+    ○	Hoare
+●	Quick Sort
+    ○	Using Lomuto and Hoare
+    ○	Time and Space analysis
+    ○	Choice of Pivot and Worst case
+    ○	Tail call elimination
+●	Problems(With Video Solutions)
+    ○	Kth Smallest element
+    ○	Chocolate Distribution Problem
+    ○	Sorting arrays with 2 and3 types of elements
+    ○	Merge Overlapping Intervals
+    ○	Meeting the Maximum Guests
+●	Heap Sort
+●	Cycle Sort
+●	Counting Sort
+●	Radix Sort
+●	Bucket Sort
+●	Overview of Sorting Algorithms
+●	Practice Problems
 
 -------------------------------------------------------------------------------------------
 
@@ -466,7 +484,6 @@ slow pointer fast pointer
 ●	Bridges in Graph
 ●	Tarjan’s Algorithm
 ●	Practice Problems
-
 
 ------------------------------------------------------------------------------------------------------
 
@@ -541,7 +558,26 @@ slow pointer fast pointer
 ●	Kruskal's Algorithm
 
 
+----------------------------------------------------------------------------
 
 
-
-Total: 35days
+Advanced concepts apart from interviews
+    Fast IO
+    File handling
+    Bitwise + DP
+    Extended Euclidean algorithm
+    Modulo Multiplicative Inverse
+    Linear Diophantine Equations
+    Matrix Exponentiation
+    Mathematical Expectation
+    Catalan Numbers
+    Fermat’s Theorem
+    Wilson's Theorem
+    Euler's Theorem
+    Lucas Theorem
+    Chinese Remainder Theorem
+    Euler Totient
+    NP-Completeness
+    Multithreading
+    Fenwick Tree / Binary Indexed Tree
+    Square Root Decomposition

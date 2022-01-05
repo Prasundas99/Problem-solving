@@ -108,6 +108,7 @@ Questions:
     ○	Insertions
     ○	Deletion
     ○	Arrays vs other DS
+Array in Java    
 ●	Problems
     ○	swaping values in array
     ○	Max value in an array   (https://practice.geeksforgeeks.org/problems/help-a-thief5938/1)
@@ -133,6 +134,7 @@ Questions:
 -----------------------------------------------------------
 8)	Matrix
     - Introduction to Matrix 
+      Matrix in java
     - Multidimensional Matrix
     - How it is stored in memory
     - Row-wise Input/Column wise input
@@ -151,20 +153,20 @@ Questions:
     Linear Search in 2D arrays    
         Find Numbers with Even Number of Digits (https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
         (Find largest number in array  (https://leetcode.com/problems/richest-customer-wealth)
+
 ●	Binary Search Iterative and Recursive (https://leetcode.com/problems/binary-search/)
     When Can we apply Binary Search
     Problems:
         Ceiling of a number
         Floor of a number
-        Smallest Letter
-    Binary Search in 2-D array (https://leetcode.com/problems/search-a-2d-matrix-ii/)
-    Problems on 2-D Binary Search
-        q1
-        q2
+        Find Smallest Letter Greater Than Target (https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+●    Binary Search in 2-D array (https://leetcode.com/problems/search-a-2d-matrix-ii/)
+●    Problems on 2-D Binary Search
+        Row-col Matrix
+        Binary Search in sorted matrix
+
 -----------------------------------------------------------------------
 7)	Sorting
-●	Implementation of C++ STL sort() function in Arrays and Vectors
-    ○	Time Complexities
 ●	Stability in Sorting Algorithms
     ○	Examples of Stable and Unstable Algos
 ●	Bubble Sort

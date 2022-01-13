@@ -7,17 +7,15 @@ import java.io.*;
 /* Name of the class has to be "Main" only if the class is public. */
 class Sorting
 {
-    static void insertion(int[] arr){
-        for(int i=0; i< arr.length - 1; i++){
-            for(int j = i+1; j>0; j--){
-                if(arr[j] < arr[j-1]){
-                    swap(arr, j, j-1);
-                }else{
-                    break;
-                }
-            }
+    static void selection(int[] arr) {
+        for (int i = 0; i < arr.length; i++) {
+            // find the max item in the remaining array and swap with correct index
+            int last = arr.length - i - 1;
+            int maxIndex = getMaxIndex(arr, 0, last);
+            swap(arr, maxIndex, last);
         }
     }
+
     
     static void swap(int[] arr, int first, int second) {
         int temp = arr[first];

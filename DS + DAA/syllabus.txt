@@ -180,7 +180,8 @@ Sorting
     Insertion Sort
     Selection Sort
     Bubble Sort
-    Cyclic Sort
+    Cyclic Sort(imp)
+        - missing number
     Merge Sort
     Quick Sort
 -----------------------------------------------------------------------------------------------------------------------------

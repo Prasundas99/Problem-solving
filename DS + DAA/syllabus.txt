@@ -240,6 +240,8 @@ slow pointer fast pointer
     ○	Reverse a Doubly Linked List
 ●	Practice Problems
 
+7-10 lpa 
+
 ---------------------------------------------------------------------------------------------------------------
 
 12)	Stack

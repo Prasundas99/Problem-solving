@@ -118,8 +118,7 @@ Questions:
     ○	Insertions
     ○	Deletion
     ○	Arrays vs other DS
-Array in Java   
-  
+ 
 ●	Problems
     ○	swaping values in array
     ○	Max value in an array   (https://practice.geeksforgeeks.org/problems/help-a-thief5938/1)
@@ -187,8 +186,6 @@ Sorting
 -----------------------------------------------------------------------------------------------------------------------------
 10)	Strings
 ●	Discussion of String DS
-●	Strings in CPP
-●	Strings in Java
 ●	Problems(With Video Solutions):
     ○	Given a string, check if they are an anagram of each other.
     ○	Given a string, find the leftmost character that repeats.
@@ -200,8 +197,6 @@ Sorting
     ○	Given two strings, check if they are rotations of each other or not.
     ○	Various Pattern Searching Algorithms.
     ○	Palindrome Check
-●	Rabin Karp Algorithm
-●	KMP Algorithm
 ●	Practice Problems
 ○	This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
 

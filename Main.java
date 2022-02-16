@@ -7,9 +7,14 @@ public class Main
         public static void main (String[] args) throws java.lang.Exception
         {
             Scanner sc=new Scanner(System.in);  
-            Integer a= sc.nextInt();
-            Integer b= sc.nextInt();
-            
-            System.out.println(b);
+            int n = sc.nextInt();
+            int t = sc.nextInt();
+            String st = sc.nextLine();
+
+            System.out.println(st);
         }
 }
+
+
+//queue at the school codeforce
+//https://www.codechef.com/problems/QUEUE/

@@ -48,7 +48,43 @@ public class LL {
         System.out.print("End");
     }
 
-    
+    //insert node at last
+    //TC = O(1)
+    public void insertLast(int val){
+        if(tail == null){
+            insertFirst(val);
+            return;
+        }
+        Node node = new Node(val);
+        tail.next = node;
+        tail = node;
+        size = size+1;
+    }
     
 
+    //Insert value at a particular index
+    public void insert(int value, int index){
+        if(index == 0){
+            insertFirst(value);
+            return;
+        }
+        if(index == size){
+            insertLast(value);
+            return;
+        }
+
+        Node temp = head;
+        //not starting from 0 as 0 is itselfis head
+        for(int i=1; i<index;i++){
+            temp = temp.next;
+        }
+        // 1 -> 2 -> 4     
+        //      ^     -------->    1 -> 3 -> 2 -> 4
+        //      |
+        //      3
+        //creating a new node which is pointing to index+1 node
+        Node node = new Node(value, temp.next);
+        temp.next = node;
+        size++;
+    }
 }

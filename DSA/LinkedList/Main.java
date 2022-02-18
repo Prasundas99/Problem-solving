@@ -14,5 +14,12 @@ public class Main{
         //calling custom lisked list created
         LL list1 = new LL(69);
 
+        list1.insertFirst(5);
+        list1.insertFirst(4);
+        list1.insertFirst(3);
+        list1.insertFirst(2);
+        list1.insertFirst(1);
+
+        list1.display();
     }
 }

@@ -106,6 +106,19 @@ public class LL {
     }
 
 
+    //Find the first node that us this value
+    public Node find(int value){
+        Node node = head;
+        // 0 == head
+        while(node !=null){
+            if(node.value == value){
+                return node.index;
+            }
+            node = node.next;
+        }
+        return null;
+    }
+    //Find the node that has this index
     public Node get(int index){
         Node node = head;
         // 0 == head

@@ -1,7 +1,7 @@
 Object Oriented Programming
-    Introduction
-    Classes & its instances
-    this keyword in Java
+    Introduction   (Done)
+    Classes & its instances (Done)
+    this keyword in Java (Done)
     Properties
     Inheritance
     Abstraction

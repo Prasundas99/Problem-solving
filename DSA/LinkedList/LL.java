@@ -87,4 +87,12 @@ public class LL {
         temp.next = node;
         size++;
     }
+
+    public void deleteFirst(){
+     head = head.next;
+     if(head == null){
+         tail = null;
+     }
+     size--;
+    }
 }

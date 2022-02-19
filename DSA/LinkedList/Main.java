@@ -22,5 +22,6 @@ public class Main{
         list1.insertLast(6);
         list1.insert(9, 4);
         list1.display();
+        list1.deleteFirst();
     }
 }

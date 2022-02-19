@@ -3,8 +3,8 @@ package DSA.LinkedList;
 public class LL {
     int size;
 
-    public LL(int size) {
-        this.size = size;
+    public LL() {
+        this.size = 1;
     }
 
     private class Node {
@@ -45,7 +45,7 @@ public class LL {
             System.out.print(temp.value + " -> ");
             temp = temp.next;
         }
-        System.out.print("End");
+        System.out.println("End");
     }
 
     //insert node at last
@@ -94,5 +94,36 @@ public class LL {
          tail = null;
      }
      size--;
+    }
+
+    public void deleteLast(){
+        if(head.next == null){
+            deleteFirst();
+        }
+        Node secondLast = get(size-2);
+        tail = secondLast;
+        tail.next = null;
+    }
+
+
+    public Node get(int index){
+        Node node = head;
+        // 0 == head
+        for(int i=1 ; i<index; i++){
+            node= node.next;
+        }
+        return node;
+    }
+
+    public void delete(int index){
+        if(index == 0){
+            deleteFirst();
+        }
+        if(index == size-1){
+            deleteLast();
+        }
+        Node prevNode = get(index-1);
+        Node nextNode = get(index+1);
+        prevNode.next = nextNode;
     }
 }

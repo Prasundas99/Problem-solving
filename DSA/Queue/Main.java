@@ -3,7 +3,7 @@ package DSA.Queue;
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         //Queue is an interfece not a function like linkedlist or stack
         //So this queue is implemented using linkedlit
         Queue<Integer> queue = new LinkedList<>();
@@ -26,5 +26,15 @@ public class Main {
         System.out.println(element);
         System.out.println("End of Collection Deque");
 
+        //Custom Queue
+        CustomQueue queue2 = new CustomQueue();
+        queue2.insert(3);
+        queue2.insert(6);
+        queue2.insert(9);
+        
+        queue2.display();
+
+        queue2.remove();
+        queue2.display();
     }
 }

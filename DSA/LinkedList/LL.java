@@ -112,7 +112,7 @@ public class LL {
         // 0 == head
         while(node !=null){
             if(node.value == value){
-                return node.index;
+                return node;
             }
             node = node.next;
         }

@@ -45,7 +45,7 @@ Additional messages in the output will result in the failure of test case
 
 */
 
-package TCSCodingQuestions;
+package TCSNQTCodingQuestions;
 
 import java.util.Scanner;
 
@@ -63,6 +63,7 @@ public class Question1 {
          */
 
         Scanner sc = new Scanner(System.in);
+        try{
         int v, w;
         v = sc.nextInt();
         w = sc.nextInt();
@@ -77,6 +78,9 @@ public class Question1 {
         } else {
             System.out.println("Invalid");
         }
+    }finally{
+        sc.close();
+    }
     }
 
 }

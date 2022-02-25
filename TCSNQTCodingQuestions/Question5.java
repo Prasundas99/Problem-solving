@@ -1,5 +1,7 @@
 /**
- A party has been organised on cruise. The party is organised for a limited time(T). The number of guests entering (E[i]) and leaving (L[i]) the party at every hour is represented as elements of the array. The task is to find the maximum number of guests present on the cruise at any given instance within T hours.
+ A party has been organised on cruise. The party is organised for a limited time(T). The number of guests entering (E[i]) and leaving (L[i])
+  the party at every hour is represented as elements of the array. The task is to find the maximum number of guests present on the cruise
+   at any given instance within T hours.
 
 Example 1:
 
@@ -112,8 +114,32 @@ Constraints:
  */
 package TCSNQTCodingQuestions;
 
+import java.util.Scanner;
+import java.math.*;
+
 public class Question5 {
     public static void main(String[] args) {
-        
+        Scanner sc = new Scanner(System.in);
+
+        int t = sc.nextInt();
+
+        int[] E = new int[t];
+        int[] L = new int[t];
+
+
+        for (int i = 0; i < t; i++) {
+            E[i] = sc.nextInt();
+        }
+        for (int j = 0; j < t; j++) {
+            L[j] = sc.nextInt();
+        }
+
+        int sum=0, highest = 0;
+        for(int i=0;i<t;i++){
+            highest = highest + E[i] - L[i];
+            sum = Math.max(highest, sum);
+        }
+
+        System.out.println(sum);
     }
 }

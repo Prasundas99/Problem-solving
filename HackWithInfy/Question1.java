@@ -42,7 +42,6 @@ Sample Input :
 1 2 2 2 3 4 2 1
 
 Sample Output :
-
 1
 1
 2
@@ -50,6 +49,44 @@ Sample Output :
 
 package HackWithInfy;
 
+import java.util.Scanner;
+
 public class Question1 {
-    
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int t = sc.nextInt();
+        while (t > 0) {
+
+            int n = sc.nextInt();
+            int[] arr = new int[n];
+            int[] a = new int[n];
+
+            for (int i = 0; i < n; i++) {
+                int temp = sc.nextInt();
+                arr[i] = temp;
+            }
+
+            // logic
+            for (int i = 0; i <= n - 2; i++) {
+                a[arr[i]]++;
+                if (arr[i + 1] == arr[i]) {
+                    i++;
+                    continue;
+                }
+            }
+
+            // printing min
+            int index = 0;
+            int maxValue = a[0];
+            for (int i = 0; i < n; i++) {
+                if (a[i] > maxValue) {
+                    index = i;
+                    maxValue = a[i];
+                }
+            }
+            System.out.println(index);
+            t--;
+        }
+    }
 }

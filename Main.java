@@ -1,18 +1,26 @@
 import java.util.*;
 
-public class Main
-{
-        public static void main (String[] args) throws java.lang.Exception
-        {
-            Scanner sc=new Scanner(System.in);  
-            int n = sc.nextInt();
-            int t = sc.nextInt();
-            String st = sc.nextLine();
+public class Main {
+    public static void main(String[] args) throws java.lang.Exception {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
 
-            System.out.println(st);
+        if(n % 2 == 1){
+            System.out.println(-1);
+            return;
         }
+
+        for(int i=1; i<n+1; i++){
+            if(i%2 == 1){
+                System.out.print(i+1);
+                System.out.print(" ");
+                continue;
+            }else{
+                System.out.print(i-1);
+                System.out.print(" ");
+                continue;
+            }
+        }
+
+    }
 }
-
-
-//queue at the school codeforce
-//https://www.codechef.com/problems/QUEUE/

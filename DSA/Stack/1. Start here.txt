@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=bcbUTCVhZXI
+
+https://leetcode.com/problems/valid-parentheses/
+
+Step 1 : Code the entire solution using array
+
+Check for this  after completing the solution in array: https://leetcode.com/problems/valid-parentheses/discuss/2149731/java-0-ms-100-using-array-and-char-code
+
+Learn stack from scratch:
+1. code individual function in system and learn
+2. Using collection framework 
+
+Step 3: 
+Code the entire solution in Stack
+
